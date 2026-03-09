@@ -16,7 +16,6 @@ I'm a 2nd-year SE student passionate about crafting clean, intuitive, and user-f
 
 - 🎯 **Target Role:** Frontend Developer (React, Next.js, TypeScript)
 - 🌱 **Learning Path:** Broadening my skills with AI tools, Machine Learning (Python), and Edge computing (Hono/Cloudflare).
-- ⚡ **Beyond Coding:** Surviving in Minecraft RLCraft, ranking up in MLBB/Overwatch 2, or cruising around on my Honda Zoomer X! 🏍️
 
 ---
 
