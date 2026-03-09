@@ -81,6 +81,11 @@ I'm a 2nd-year SE student passionate about crafting clean, intuitive, and user-f
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight)
 
   
 ### 📫 Let's Connect!
