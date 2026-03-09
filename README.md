@@ -111,17 +111,17 @@ Next.js • React • Tailwind • Prisma
 
 ---
 
-# 📊 Dev Metrics
+## 📊 Dev Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=taechonlakon-alt&theme=tokyonight" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
