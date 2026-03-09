@@ -115,10 +115,7 @@ Next.js • React • Tailwind • Prisma
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=taechonlakon-alt&theme=tokyonight" height="170"/>
-
+![Snake animation](https://github.com/taechonlakon-alt/taechonlakon-alt/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight" height="170"/>
