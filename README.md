@@ -115,10 +115,6 @@ Next.js • React • Tailwind • Prisma
 
 <div align="center">
 
-![Snake animation](https://github.com/taechonlakon-alt/taechonlakon-alt/blob/output/github-contribution-grid-snake.svg)
-<br/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
