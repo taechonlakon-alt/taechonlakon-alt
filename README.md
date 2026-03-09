@@ -86,6 +86,5 @@ I'm a 2nd-year SE student passionate about crafting clean, intuitive, and user-f
   
 ### 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-taechonlakon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taechonlakon@gmail.com)
-*(อย่าลืมใส่ลิงก์ LinkedIn ของตัวเองทับบรรทัดนี้นะครับ ถ้ามี!)*
 
 </div>
