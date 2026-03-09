@@ -82,20 +82,7 @@ I'm a 2nd-year SE student passionate about crafting clean, intuitive, and user-f
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-</div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeChonlakon&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="Tae's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeChonlakon&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
   
 ### 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-taechonlakon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taechonlakon@gmail.com)
