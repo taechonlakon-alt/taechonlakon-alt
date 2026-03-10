@@ -133,16 +133,16 @@ Next.js • React • Tailwind • Prisma
 ## 📊 Dev Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=taechonlakon-alt&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=taechonlakon-alt&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taechonlakon-alt&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taechonlakon-alt&theme=tokyo-night" />
 </p>
 
 ---
@@ -152,11 +152,6 @@ Next.js • React • Tailwind • Prisma
 I enjoy turning complex ideas into simple and elegant UI.
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/taechonlakon-alt/taechonlakon-alt/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ## 📫 Let's Connect
 
