@@ -115,7 +115,13 @@ Next.js • React • Tailwind • Prisma
 
 <div align="center">
 
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight"/>
+
+</p>
 </div>
 
 <br/>
