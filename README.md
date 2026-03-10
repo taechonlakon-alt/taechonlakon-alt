@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tae (TaeChonlakon)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+@UP;Aspiring+Frontend+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+@UP;Aspiring+Frontend+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
 
 **Actively seeking a Frontend Development Internship!** 🚀
 
@@ -10,16 +10,16 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 I'm a 2nd-year Software Engineering student passionate about crafting clean, intuitive, and user-friendly web interfaces.
 
-- 🎯 **Target Role:** Frontend Developer (React, Next.js, TypeScript)  
+- 🎯 **Target Role:** Frontend Developer (React, Next.js, TypeScript)
 - 🌱 **Learning:** AI tools, Machine Learning (Python), Edge computing (Hono / Cloudflare)
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
 <table align="center">
 <tr>
@@ -78,7 +78,7 @@ Next.js • React • Tailwind • Prisma
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -111,23 +111,49 @@ Next.js • React • Tailwind • Prisma
 
 ---
 
-## 📊 Dev Metrics
+## 💡 Core Skills
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taechonlakon-alt&theme=tokyo-night"/>
+- Frontend Development with **React / Next.js**
+- Building **responsive UI with TailwindCSS**
+- Component-based architecture
+- Integrating APIs / Server Actions
+- UI/UX focused development
 
 ---
 
-# 📫 Let's Connect
+## 📚 Currently Learning
+
+- Advanced React Patterns
+- AI tools for developers
+- Cloudflare Workers / Edge computing
+- Machine Learning with Python
+
+---
+
+## 📊 Dev Metrics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=taechonlakon-alt&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taechonlakon-alt&theme=tokyo-night" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex ideas into simple and elegant UI.
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
