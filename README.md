@@ -133,8 +133,8 @@ Next.js • React • Tailwind • Prisma
 ## 📊 Dev Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taechonlakon-alt&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taechonlakon-alt&layout=compact&theme=transparent" height="165" />
 </p>
 
 <p align="center">
