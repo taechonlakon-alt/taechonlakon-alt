@@ -79,9 +79,9 @@ Next.js 14 • React • Tailwind • Prisma • PostgreSQL
 
 ### Frontend & UI
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
@@ -89,10 +89,15 @@ Next.js 14 • React • Tailwind • Prisma • PostgreSQL
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Data / AI & Others
+### 💻 Core Programming
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🤖 AI, Data & Tools
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -101,11 +106,11 @@ Next.js 14 • React • Tailwind • Prisma • PostgreSQL
 
 ## 💡 Core Skills
 
-- **End-to-End Development:** Eager to build and connect responsive frontends with secure backend APIs.
-- **Problem Solving:** Actively learning how to structure component-based architectures and manage database schemas.
-- **Team Collaboration:** Familiar with Git workflows and collaborative development.
-- **Continuous Learning:** Always open to exploring new tech stacks and adapting to modern development practices.
-
+- **End-to-End Web Development:** Connecting responsive frontends with secure backend APIs.
+- **Object-Oriented & Core Programming:** Solid understanding of programming logic using TypeScript, Java, and C.
+- **AI & Data Application:** Practical experience in training computer vision models (YOLOv11) and using Python for data processing.
+- **Continuous Learning:** Actively exploring new tech stacks and adapting AI tools to improve developer productivity.
+  
 ---
 
 ## 📊 Dev Metrics
