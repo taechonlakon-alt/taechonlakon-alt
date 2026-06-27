@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Tae (TaeChonlakon)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+@UP;Aspiring+Frontend+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=3rd-Year+Software+Engineering+@UP;Aspiring+Full+Stack+Developer;Enthusiastic+Tech+Learner;Connecting+UI+with+APIs)](https://git.io/typing-svg)
 
-**Actively seeking a Frontend Development Internship!** 🚀
+**Actively seeking a Full Stack Developer Internship in Chiang Mai (2026)!** 🚀
 
 </div>
 
@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-I'm a 2nd-year Software Engineering student passionate about crafting clean, intuitive, and user-friendly web interfaces.
+I'm a 3rd-year Software Engineering student passionate about web development. While I started with a strong focus on crafting user-friendly frontend interfaces, I am currently diving deep into server-side technologies and database integration. I don't claim to be an expert, but I am an enthusiastic learner who loves the challenge of building end-to-end applications.
 
-- 🎯 **Target Role:** Frontend Developer (React, Next.js, TypeScript)
-- 🌱 **Learning:** AI tools, Machine Learning (Python), Edge computing (Hono / Cloudflare)
+- 🎯 **Target Role:** Full Stack Developer Intern (React, Next.js, Node.js, Hono)
+- 🌱 **Learning:** Backend architectures, Database management (PostgreSQL), Edge computing, and AI tools for developers.
 
 ---
 
@@ -36,16 +36,13 @@ I'm a 2nd-year Software Engineering student passionate about crafting clean, int
 
 A collaborative web app for parents to track baby's daily activities.
 
-**My Contribution (Frontend)**
-
-- Landing Page UI
-- BabySwitcher & SleepModal
-- Auth + Invitation flow
-- Reusable components (shadcn/ui + Tailwind)
+**My Contribution (Full Stack Focus)**
+- Designed UI with "squishy" claymorphism animations & specific texture emojis for excretion logs.
+- Developed the Authentication & Invitation system managing UI and JWT API endpoints.
+- Integrated frontend components with a serverless backend (Hono + Cloudflare Workers) for data synchronization.
 
 **Tech**
-
-React • TypeScript • Vite • Tailwind
+React • TypeScript • Vite • Tailwind • Hono
 
 </td>
 
@@ -59,17 +56,15 @@ React • TypeScript • Vite • Tailwind
 </a>
 </p>
 
-POS system for small bakery shops.
+POS and inventory management system for small bakery shops.
 
-**My Contribution (Frontend)**
-
-- Dashboard routing (Next.js 14)
-- Responsive UI (Tailwind + ShadCN)
-- Server Actions integration
+**My Contribution (Full Stack Focus)**
+- Developed core menu/category systems linking dynamic UI with backend logic.
+- Implemented order workflows and role-based access routing (Owner vs. Staff).
+- Managed data synchronization with PostgreSQL databases.
 
 **Tech**
-
-Next.js • React • Tailwind • Prisma
+Next.js 14 • React • Tailwind • Prisma • PostgreSQL
 
 </td>
 
@@ -82,30 +77,23 @@ Next.js • React • Tailwind • Prisma
 
 <div align="center">
 
-### Frontend
-
+### Frontend & UI
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Programming
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### Backend / Database
-
+### Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Data / AI
-
+### Data / AI & Others
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -113,20 +101,10 @@ Next.js • React • Tailwind • Prisma
 
 ## 💡 Core Skills
 
-- Frontend Development with **React / Next.js**
-- Building **responsive UI with TailwindCSS**
-- Component-based architecture
-- Integrating APIs / Server Actions
-- UI/UX focused development
-
----
-
-## 📚 Currently Learning
-
-- Advanced React Patterns
-- AI tools for developers
-- Cloudflare Workers / Edge computing
-- Machine Learning with Python
+- **End-to-End Development:** Eager to build and connect responsive frontends with secure backend APIs.
+- **Problem Solving:** Actively learning how to structure component-based architectures and manage database schemas.
+- **Team Collaboration:** Familiar with Git workflows and collaborative development.
+- **Continuous Learning:** Always open to exploring new tech stacks and adapting to modern development practices.
 
 ---
 
@@ -146,17 +124,3 @@ Next.js • React • Tailwind • Prisma
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I enjoy turning complex ideas into simple and elegant UI.
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-taechonlakon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taechonlakon@gmail.com)
-
-</div>
